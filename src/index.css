@@ -3,4 +3,7 @@
 @import '@fontsource/roboto/500.css';
 @import '@fontsource/roboto/700.css';
 @import 'bootstrap\dist\css\bootstrap-grid.min.css';
-@import 'bootstrap\dist\css\bootstrap-utilities.min.css'
+@import 'bootstrap\dist\css\bootstrap-utilities.min.css';
+
+/* Le quise poner la fuente de middle heart jajiadk */
+@import '@phillipwildhirt/font-caslon-antique';
